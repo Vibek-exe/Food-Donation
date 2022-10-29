@@ -1,4 +1,4 @@
-# FOODONOR
+# FOOD DONATION
 This is a food donation android application designed to reduce food wastage by donating excess food to poor or needy people.  Based on Kotlin and currently under development.
 
 In Africa, especially Kenya, food wastage is a disturbing issue. The streets, garbage bins and landfills have ample proof to prove it. Homes, canteens, restaurants, social and family get-togethers and functions disposes out so much food.
