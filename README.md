@@ -1,7 +1,7 @@
 # FOOD DONATION
 This is a food donation android application designed to reduce food wastage by donating excess food to poor or needy people.  Based on Kotlin and currently under development.
 
-In Africa, especially Kenya, food wastage is a disturbing issue. The streets, garbage bins and landfills have ample proof to prove it. Homes, canteens, restaurants, social and family get-togethers and functions disposes out so much food.
+In India, especially Kanput, food wastage is a disturbing issue. The streets, garbage bins and landfills have ample proof to prove it. Homes, canteens, restaurants, social and family get-togethers and functions disposes out so much food.
 Food wastage is not only an indication of hunger or pollution, but also economic problem. The high standard of living has resulted in the wastage of food, clothes, etc, because of quick changes in habits and lifestyle. Instead of wasting these things we can put them in use by donating them to various organizations such as orphanages, old age homes, etc. The product is an internet-based android application that basically aims at charity through making donations on excess food that may go to waste.
 This application is meant to reduce food wastage and also fulfill other requirements like clothes, books, utensils, etc. for the needy organizations and people.
 
@@ -24,17 +24,18 @@ The ultimate objective of this project is to communicate that investments in foo
  ## Splash screen
  
  <p float="left">
-<img src="screenshots/splash.png" width=250/>
+<img src="https://user-images.githubusercontent.com/78261707/198853037-581d53d7-7fbe-4e39-9539-35af85926b56.jpg" width=250/>
   </p>
   
  ## Sign in screen
  
  <p float="left">
 <img src="screenshots/register.png" width=250/>
-<img src="screenshots/login.png" width=250/>
+<img src="https://user-images.githubusercontent.com/78261707/198853116-80d29fe6-ff61-4133-847e-3f39b8fc2bff.jpg" width=250/>
   </p>
-  
- ## Foodonor 
+
+ 
+ ## Food donation
  
  <p float="left">
 <img src="screenshots/dashboard.png" width=250/>
